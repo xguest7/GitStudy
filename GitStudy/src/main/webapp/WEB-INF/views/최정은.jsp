@@ -7,6 +7,15 @@
 <title>Insert title here</title>
 </head>
 <body>
-안녕하세요~~
+
+<h2>깃</h2>
+<div>git init
+git --global user.name
+git --global user.email
+</div>
+<p>푸시푸시풀
+테 스 트<p>
+<a href="https://github.com/">깃허브</a>
+됐으면 , , , , ,   ,  , , , ,, , , , ,  
 </body>
 </html>
