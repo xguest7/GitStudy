@@ -14,5 +14,6 @@ window > show view > other > git > git Repositories
 git:버전관리 시스템
 log:커밋 확인
 원격저장소:github에서 협력하는 공간
+ss
 </body>
 </html>
